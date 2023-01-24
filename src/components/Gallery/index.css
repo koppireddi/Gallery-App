@@ -1,0 +1,35 @@
+.container {
+  background-color: #ffffff;
+  background-size: cover;
+  padding: 15px;
+  padding-left: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.images {
+  width: 60%;
+  height: 60%;
+  padding-left: 70px;
+}
+.heading {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Roboto;
+  color: #1e293b;
+  padding-left: 70px;
+}
+
+.paragraph {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Roboto;
+  color: #64748b;
+  padding-left: 70px;
+}
+.list-container {
+  display: flex;
+  justify-content: center;
+  padding-left: 50px;
+  width: 60%;
+}

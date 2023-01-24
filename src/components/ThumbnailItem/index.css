@@ -1,0 +1,13 @@
+.list-item {
+  list-style-type: none;
+  margin-left: 0px;
+}
+.image-items {
+  width: 100%;
+}
+
+button {
+  border: none;
+  color: #ffffff;
+  background-color: #ffffff;
+}
